@@ -28,5 +28,8 @@
         <splash density="port-xxhdpi" src="splash.png" />
         <splash density="port-xxxhdpi" src="splash.png" />
     </platform>
-    
+    <preference name="SplashScreenDelay" value="5000" /> 
+<preference name="AutoHideSplashScreen" value="true" />
+<preference name="ShowSplashScreenSpinner" value="false"/>
+<preference name="SplashScreen" value="screen"/>
 </widget>
