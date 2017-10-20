@@ -22,7 +22,7 @@
         <icon density="xhdpi" src="icon.png" />
        
        
-        <splash src="splash.png" />
+        <splash src="splash.png" value="splash"/>
         
         
          
