@@ -15,18 +15,8 @@
        
         <icon density="xhdpi" src="icon.png" />
        
-        <splash density="land-ldpi" src="splash.png" />
-        <splash density="land-mdpi" src="splash.png" />
-        <splash density="land-hdpi" src="splash.png" />
-        <splash density="land-xhdpi" src="splash.png" />
-        <splash density="land-xxhdpi" src="splash.png" />
-        <splash density="land-xxxhdpi" src="splash.png" />
-        <splash density="port-ldpi" src="splash.png" />
-        <splash density="port-mdpi" src="splash.png" />
-        <splash density="port-hdpi" src="splash.png" />
-        <splash density="port-xhdpi" src="splash.png" />
-        <splash density="port-xxhdpi" src="splash.png" />
-        <splash density="port-xxxhdpi" src="splash.png" />
+       
+        <splash src="splash.png" />
     </platform>
     <preference name="SplashScreenDelay" value="5000" /> 
 <preference name="AutoHideSplashScreen" value="true" />
