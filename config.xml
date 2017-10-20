@@ -23,17 +23,9 @@
        
        
         <splash src="splash.png" />
-         <gap:plugin name="org.apache.cordova.device" />
-        <gap:plugin name="org.apache.cordova.splashscreen" />
-
-         <splash src="splash.png" />
-         <gap:plugin name="org.apache.cordova.device" />
-        <gap:plugin name="org.apache.cordova.splashscreen" />
-     <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="splash.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="splash.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="splash.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="splash.png" />
-   
+        
+        
+         
     </platform>
     <preference name="SplashScreenDelay" value="5000" /> 
 <preference name="AutoHideSplashScreen" value="true" />
